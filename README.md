@@ -2,8 +2,8 @@
  Primeiro repositório do curso de Git e GitHub
 
  Repositório criado durante uma aula ao vivo!
- **negrito
- *italico
+ **negrito**
+ *italico*
 
 (linha adicionada diretamente no siste! TESTE!)
 
